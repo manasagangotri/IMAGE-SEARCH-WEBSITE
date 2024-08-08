@@ -4,26 +4,39 @@ Image Search Project USING API
 This project is a simple web application that allows users to search for images using the Unsplash API. The application retrieves images based on a user's search query and displays them on the page.
 
 Features
+
 Fetches images from the Unsplash API.
+
 Displays search results in a responsive grid layout.
+
 User-friendly interface with a search bar.
 
 
- Prerequisites
+Prerequisites
+
 An Unsplash API Access Key.
+
 Basic knowledge of HTML, CSS, and JavaScript.
 
-  Usage
+Usage
+
 Open index.html in your browser.
+
 Enter a search term in the input field.
+
 Click "Search" to fetch and display images.
 
 Project Structure
+
 index.html: Main HTML file.
+
 styles.css: Styling for the application.
+
 script.js: JavaScript file containing API logic.
 
+
 How to get an API?
+
 
 To get an API key from Unsplash, follow these steps:
 
